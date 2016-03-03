@@ -1,3 +1,4 @@
+/*Typography*/
 #topten {
   text-align: right;
   font-family: 'Titillium Web', sans-serif;
@@ -13,40 +14,25 @@ h2 {
   text-align: right;
   color: white;
 }
+/*------------------------*/
 
+/*Bootstrap Formatting*/
 .jumbotron {
   margin: 0;
   padding: 10px 0px 10px 0px;
   background-color: #337ab7;
 }
 
-.row {
-  /*height: 100%;*/
-}
-
-.col-sm-12 {
-  /*background-color: grey;
-  border: 2px solid black;*/
+.col-sm-12, .col-sm-8, .col-sm-6, .col-sm-4 {
   padding: 20px;
 }
+/*-------------------------*/
 
+/*Images Formatting*/
 img {
   height: 15vw;
   float: left;
   margin-right: 10px;
-}
-
-.col-sm-8 {
-  /*background-color: grey;
-  border: 2px solid black;*/
-  padding: 20px;
-  /*height: 100%;*/
-}
-
-.col-sm-4 {
-  /*background-color: grey;
-  border: 2px solid black;*/
-  padding: 20px;
 }
 
 .col-sm-4 > img {
@@ -55,17 +41,12 @@ img {
   margin-right: 10px;
 }
 
-.col-sm-6 {
-  /*background-color: grey;
-  border: 2px solid black;*/
-  padding: 20px;
-}
-
 .col-sm-6 > img {
   height: 10vw;
   float: left;
   margin-right: 10px;
 }
+/*-------------------------*/
 
 .btn {
   float:right;
@@ -89,8 +70,4 @@ footer{
 #signup {
   display: flex;
   justify-content: center;
-}
-
-.well {
-  /*width:;*/
 }
