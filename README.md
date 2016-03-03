@@ -14,4 +14,6 @@ Spend minimal time on what images you want on the page and more time using Boots
 Some Bootstrap to include should be a jumbotron, some buttons and a navigation bar.
 
 
+Note that the "more info" tabs on each of the ten sections goes to the Wikipedia page for that language.  However, clicking on "More Info" for the Ruby section takes you to another page we created as part of our project.  This was one of my first multi-page projects.
+
 All content for the challenge came from Wikipedia.
